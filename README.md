@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  My name is Tierry
 ==============================================================================================================================
 
-Estudante de Jogos Digitais
+Digital Games Student
 ---------------------------
 
-Sou um estudante de Tecnologia em Jogos Digitais apaixonado por criar mundos virtuais e experiências interativas. Estou embarcando nessa jornada fascinante com um entusiasmo insaciável por aprender e inovar. Embora ainda esteja acumulando experiência prática, meu comprometimento com o crescimento constante e a busca por novas tecnologias é inabalável. Este GitHub será o lar onde compartilharei meus projetos e onde você poderá acompanhar meu progresso e minhas aventuras no desenvolvimento de jogos e de outros projetos.
+I am a Digital Games Technology student passionate about creating virtual worlds and interactive experiences. I am embarking on this fascinating journey with an insatiable enthusiasm for learning and innovating. Although I am still accumulating practical experience, my commitment to constant growth and the search for new technologies is unwavering. This GitHub will be the home where I share my projects and where you can follow my progress and adventures in game development and other projects.
 
 ### Skills
 
